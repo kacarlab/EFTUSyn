@@ -1,0 +1,13 @@
+Trajectory	0	500	1000	1500	2000	2500	3000	trajectory	position	mutation	annotation	gene	description	genotype
+1	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1	4005094	IS150 (+) +3 bp	coding (865‑867/1164 nt)	fadA	acetyl‑CoA acetyltransferase	genotype-1
+2	0.0	0.902	1.0	1.0	1.0	1.0	1.0	2	649421	T>G	T461P (ACC→CCC) 	mrdA	transpeptidase involved in peptidoglycan synthesis (penicillin‑binding protein 2)	genotype-5
+3	0.0	0.0	0.21	0.158	0.602	1.0	1.0	3	1733796	A>C	T278P (ACC→CCC) 	pykF	pyruvate kinase	genotype-6
+4	0.0	1.0	1.0	1.0	1.0	1.0	1.0	4	3893812	Δ5,379bp	IS150‑mediated	rbsD–[rbsR]	rbsD, rbsA, rbsC, rbsB, rbsK, [rbsR]	genotype-1
+5	0.0	0.0	0.0	0.0	0.0	1.0	1.0	5	4154414	C>T	V15V (GTC→GTT) 	tufB	protein chain elongation factor EF‑Tu (duplicate of tufA)	genotype-7
+6	0.0	0.9420000000000001	1.0	1.0	1.0	1.0	1.0	6	1598504	IS1 (–) +9 bp	coding (169‑177/1461 nt)	ydfI	predicted mannonate dehydrogenase	genotype-5
+7	0.0	1.0	1.0	1.0	1.0	1.0	1.0	7	1788280	Δ24bp	coding (82‑105/1392 nt)	ydjN	predicted transporter	genotype-1
+8	0.0	0.943	1.0	1.0	1.0	1.0	1.0	8	2278405	G>A	R900C (CGT→TGT) 	yfaS	putative membrane protein	genotype-5
+9	0.0	0.0	0.0	0.12	0.445	0.0	0.0	9	4178736	T>G	I10S (ATT→AGT) 	hupA	HU, DNA‑binding transcriptional regulator, alpha subunit	genotype-8
+10	0.0	0.0	0.0	0.0	0.41100000000000003	0.0	0.0	10	4099880	T>G	I56L (ATC→CTC) 	hslU	ATP‑dependent protease ATP‑binding subunit	genotype-2
+11	0.0	0.0	0.17600000000000002	0.364	0.259	0.0	0.0	11	2103887	+CAGC	coding (154/216 nt)	ECB_01992	hypothetical protein	genotype-3
+12	0.0	0.0	0.0	0.25	0.0	0.0	0.0	12	40146	IS1 (–) +9 bp	coding (311‑319/894 nt)	caiD	carnitinyl‑CoA dehydratase	genotype-4

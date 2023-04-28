@@ -1,0 +1,32 @@
+{
+    "filename": "g500-g3000_combined_25percent+.xlsx",
+    "parameters": {
+        "alias_filename": "None",
+        "annotate_all": "False",
+        "conservative": "True",
+        "derivative_cutoff": "0.01",
+        "dlimit": "0.03",
+        "draw_outline": "True",
+        "filename": "g500-g3000_combined_25percent+.xlsx",
+        "filename_pairwise": "None",
+        "flimit": "0.97",
+        "genotype_palette_filename": "None",
+        "highlight": "None",
+        "highlight_color": "#FFFF00",
+        "is_genotype": "False",
+        "known_ancestry": "None",
+        "known_genotypes": "None",
+        "metric": "binomial",
+        "name": "lineage",
+        "output_folder": "/Users/k8tiedid/Documents/Kacar_Lab/Experiments/MiGS_WGS/WGS_forGitHub",
+        "pvalue": "0.05",
+        "render": "True",
+        "sheetname": "0",
+        "similarity_cutoff": "None",
+        "slimit": "0.15",
+        "smooth_plot": "True",
+        "starting_genotypes": "None",
+        "threads": "1"
+    },
+    "version": "0.9.0"
+}

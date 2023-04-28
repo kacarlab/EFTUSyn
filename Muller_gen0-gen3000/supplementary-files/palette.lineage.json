@@ -1,0 +1,29 @@
+{
+    "genotype": {
+        "genotype-0": "#FFFFFF",
+        "genotype-1": "#fb694a",
+        "genotype-2": "#94c4df",
+        "genotype-3": "#4a98c9",
+        "genotype-4": "#1764ab",
+        "genotype-5": "#d0e1f2",
+        "genotype-6": "#c7e9c0",
+        "genotype-7": "#73c476",
+        "genotype-8": "#228a44",
+        "removed": "#333333"
+    },
+    "name": "lineage",
+    "trajectory": {
+        "1": "#fb694a",
+        "10": "#94c4df",
+        "11": "#4a98c9",
+        "12": "#1764ab",
+        "2": "#d0e1f2",
+        "3": "#c7e9c0",
+        "4": "#fb694a",
+        "5": "#73c476",
+        "6": "#d0e1f2",
+        "7": "#fb694a",
+        "8": "#d0e1f2",
+        "9": "#228a44"
+    }
+}
